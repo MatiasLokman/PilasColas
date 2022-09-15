@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\PilasyColas\bin\Debug\PilasyColas.exe.config
+C:\Users\User\Desktop\PilasyColas\bin\Debug\PilasyColas.exe
+C:\Users\User\Desktop\PilasyColas\bin\Debug\PilasyColas.pdb
+C:\Users\User\Desktop\PilasyColas\obj\Debug\PilasyColas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PilasyColas\obj\Debug\PilasyColas.FrmPrincipal.resources
+C:\Users\User\Desktop\PilasyColas\obj\Debug\PilasyColas.Properties.Resources.resources
+C:\Users\User\Desktop\PilasyColas\obj\Debug\PilasyColas.csproj.GenerateResource.cache
+C:\Users\User\Desktop\PilasyColas\obj\Debug\PilasyColas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PilasyColas\obj\Debug\PilasyColas.exe
+C:\Users\User\Desktop\PilasyColas\obj\Debug\PilasyColas.pdb
+C:\Users\User\Desktop\PilasyColas\obj\Debug\PilasyColas.FrmCola.resources
+C:\Users\User\Desktop\PilasyColas\obj\Debug\PilasyColas.FrmPila.resources
